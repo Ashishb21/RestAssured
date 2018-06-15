@@ -1,0 +1,6 @@
+<mt-sms-intercept-request version="1.21" id="04">
+ <msisdn provider="networkname">15126470220</msisdn>
+ <destination-msisdn>15126470220</destination-msisdn>
+ <user-data-tpdu>000C919999999999990000711160716255003B41E19058341E9149E592D9743EA151E9945ABD62B3DAB0784C2E9BCFE8B47ACD6EBBDFF0B87C4EBFE3F3FA986C46ABD96EB81C0C</user-data-tpdu>
+ <user-data-text>normal text mt intercept</user-data-text>
+ </mt-sms-intercept-request>
